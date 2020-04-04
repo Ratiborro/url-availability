@@ -19,7 +19,7 @@ class UrlAvailability
     public function __construct(array $urls)
     {
         $this->urls = $urls;
-        $this->httpClient = Client::class;
+        $this->httpClient = new Client();
     }
 
     protected function checkUrl(): bool
