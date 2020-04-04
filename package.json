@@ -1,6 +1,6 @@
 {
   "name": "ratiborro/url-availability",
-  "description": "Template for composer package",
+  "description": "Check url(-s) for availability",
   "license": "proprietary",
   "authors": {
     "name": "Ratibor Korobin",

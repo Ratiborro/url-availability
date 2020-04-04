@@ -27,13 +27,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/UrlAvailability.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="59" column="22" lean-forward="true" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
+            <state relative-caret-position="313">
+              <caret line="84" column="5" lean-forward="true" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
               <folding>
                 <element signature="n#__construct#0;n#UrlAvailability#0;n#!!top" />
                 <element signature="n#urlIsAvailable#0;n#UrlAvailability#0;n#!!top" />
                 <element signature="n#setUnavailableStatusCode#0;n#UrlAvailability#0;n#!!top" />
-                <element signature="n#all#0;n#UrlAvailability#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -80,6 +79,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -112,12 +112,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586014441479</updated>
-      <workItem from="1586014442551" duration="3926000" />
+      <workItem from="1586014442551" duration="4176000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3926000" />
+    <option name="totallyTimeSpent" value="4176000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
@@ -131,7 +131,7 @@
       <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32960895" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32960895" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -176,13 +176,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/UrlAvailability.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="59" column="22" lean-forward="true" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
+        <state relative-caret-position="313">
+          <caret line="84" column="5" lean-forward="true" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
           <folding>
             <element signature="n#__construct#0;n#UrlAvailability#0;n#!!top" />
             <element signature="n#urlIsAvailable#0;n#UrlAvailability#0;n#!!top" />
             <element signature="n#setUnavailableStatusCode#0;n#UrlAvailability#0;n#!!top" />
-            <element signature="n#all#0;n#UrlAvailability#0;n#!!top" />
           </folding>
         </state>
       </provider>
