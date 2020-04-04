@@ -22,7 +22,7 @@ class UrlAvailability
         $this->httpClient = Client::class;
     }
 
-    protected function checkUrlAvailability(): bool
+    protected function checkUrl(): bool
     {
         try {
             $this->getStatusCode();
@@ -52,7 +52,7 @@ class UrlAvailability
     {
         if (!$this->checked) {
             foreach ($this->urls as $this->url) {
-                $this->checkUrlAvailability();
+                $this->checkUrl();
                 if ($this->urlIsAvailable()) {
                     $this->availableUrls[] = $this->url;
                 } else {
@@ -84,5 +84,10 @@ class UrlAvailability
     public function unavailableUrls(): array
     {
         return $this->unavailableUrls;
+    }
+
+    public function getErrors(): array
+    {
+        return $this->errors;
     }
 }
