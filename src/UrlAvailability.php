@@ -34,7 +34,7 @@ class UrlAvailability
 
     protected function getStatusCode(): int
     {
-        $httpResponse = $this->httpClient->options($this->url);
+        $httpResponse = $this->httpClient->request('GET', $this->url);
         return $this->statusCode = $httpResponse->getStatusCode();
     }
 
