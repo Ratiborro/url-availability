@@ -7,7 +7,7 @@
         "email": "ratiborro@gmail.com"
     }],
     "require": {
-        "php": "7.1",
+        "php": ">=7.1",
         "guzzlehttp/guzzle": "~6.0"
     },
     "require-dev": {
