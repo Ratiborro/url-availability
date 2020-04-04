@@ -6,7 +6,7 @@
 Для проверки URL-адресов используйте метод ```checkUrls()``` класса ```UrlAvailability```:
 
 ```php
-$checker = UrlAvailability(['https:ratibor-korobin.ru', 'https://vk.com']);
+$checker = new UrlAvailability(['https:ratibor-korobin.ru', 'https://vk.com']);
 $urls = $checker->checkUrls();
 ```
 
