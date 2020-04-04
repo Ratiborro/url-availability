@@ -1,1 +1,1 @@
-Шаблон composer пакета
+Check url(-s) for availability

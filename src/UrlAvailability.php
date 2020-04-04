@@ -1,5 +1,7 @@
 <?php
 
+namespace Ratiborro\UrlAvailability;
+
 use GuzzleHttp\Client;
 
 class UrlAvailability
