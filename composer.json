@@ -2,10 +2,10 @@
     "name": "url-availability",
     "description": "Check url(-s) for availability",
     "license": "proprietary",
-    "authors": {
+    "authors": [{
         "name": "Ratibor Korobin",
         "email": "ratiborro@gmail.com"
-    },
+    }],
     "require": {
         "php": "7.1",
         "guzzlehttp/guzzle": "~6.0"
