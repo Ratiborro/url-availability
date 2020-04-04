@@ -1,4 +1,6 @@
 {
+    "name": "ratiborro/url-availability",
+    "description": "Check url(-s) for availability",
     "require": {
         "guzzlehttp/guzzle": "^6.5"
     }
