@@ -6,7 +6,7 @@
         "name": "Ratibor Korobin",
         "email": "ratiborro@gmail.com"
     }],
-    "version": "0.1",
+    "version": "0.1.1",
     "require": {
         "php": ">=7.1",
         "guzzlehttp/guzzle": "~6.0"
