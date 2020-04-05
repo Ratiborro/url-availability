@@ -11,7 +11,7 @@
 
 ```php
 use Ratiborro\UrlAvailability\UrlAvailability;
-$checker = new UrlAvailability(['https:ratibor-korobin.ru', 'https://vk.com']);
+$checker = new UrlAvailability(['https://ratibor-korobin.ru', 'https://vk.com']);
 $urls = $checker->checkUrls();
 ```
 
